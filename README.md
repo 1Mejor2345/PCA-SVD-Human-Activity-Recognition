@@ -1,5 +1,7 @@
 # 📉 Reducción de Dimensionalidad con SVD y PCA (UCI HAR Dataset)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u3DNiTIXCoSMFy4CwV85VadqNve1JwGB?usp=sharing)
+
 Este proyecto explora la aplicación de fundamentos de **Álgebra Lineal** para optimizar el análisis de datos masivos. Se implementan técnicas de **Descomposición en Valores Singulares (SVD)** y **Análisis de Componentes Principales (PCA)** para reducir la dimensionalidad de un dataset de reconocimiento de actividades humanas (UCI HAR), manteniendo la varianza explicada más significativa.
 
 ## 📄 Descripción del Proyecto
@@ -21,8 +23,6 @@ El objetivo principal es demostrar cómo las transformaciones lineales y la desc
 ## 📊 Resultados Clave
 
 El análisis permitió reducir el dataset original de múltiples dimensiones a componentes principales que capturan la mayor parte de la varianza, optimizando el costo computacional para tareas de Machine Learning.
-
-*(Aquí podrías insertar una captura de pantalla de uno de los gráficos de biplot o screeplot generados en tu notebook)*
 
 ## 📂 Estructura del Repositorio
 
